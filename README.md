@@ -1,3 +1,4 @@
+This file describes the content of the script „run_analysis.R“.
 
 The script contains several parts separated by =========== lines each performing a determined\
 set of actions to clean up the datasets provided and create a tidy dataset.\
