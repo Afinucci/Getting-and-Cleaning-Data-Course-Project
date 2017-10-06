@@ -14,11 +14,6 @@
 \cf2 \cb3 This file contains the description about the activities performed to clean up the data for the \'84\expnd0\expndtw0\kerning0
 Getting and Cleaning Data Course Project\'93 and create a tidy dataset.\
 \
-\'97\'97\'97\'97\'97\'97TO BE COPIED IN THE README file\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
-To perform all the clean up activities and to create a tidy dataset only one script is used!\
-This script is called: \'84run_analysis.R\'93 and it contains several sub_scripts each performing a specific step in the clean up operations.\
-Each script is described in detail in the file \'84run_analysis.R\'93\
-_______________________________________________________\
 \
 \
 ============================================================\
