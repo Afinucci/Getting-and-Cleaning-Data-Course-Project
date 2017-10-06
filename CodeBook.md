@@ -1,13 +1,5 @@
-============================================================
-============================================================
 
 This file contains the description about the activities performed to clean up the data for the „Getting and Cleaning Data Course Project“ and create a tidy dataset.
-
-——————TO BE COPIED IN THE README file——————————
-To perform all the clean up activities and to create a tidy dataset only one script is used!
-This script is called: „run_analysis.R“ and it contains several sub_scripts each performing a specific step in the clean up operations.
-Each script is described in detail in the file „run_analysis.R“
-_______________________________________________________
 
 
 ============================================================
